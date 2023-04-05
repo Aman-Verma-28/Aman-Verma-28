@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center"></h3>
-<img src=https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in alt='quote'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman-Verma-28&label=Profile%20views&color=0e75b6&style=flat" alt="Aman Verma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman-Verma-28" alt="Aman Verma" /></a> </p>

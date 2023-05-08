@@ -2,9 +2,6 @@
 <h3 align="center"></h3>
 
 ### Welcome to my corner of the web!
-![image](https://github.com/Ishaan28malik/Ishaan28malik/blob/master/Dev.jpg)
-![image](https://github.com/Ishaan28malik/Ishaan28malik/blob/master/404.png)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman-Verma-28&label=Profile%20views&color=0e75b6&style=flat" alt="Aman Verma" /> </p>
 

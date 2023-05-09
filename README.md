@@ -34,8 +34,7 @@
 
 
 ## My stats on :octocat:
-[![oscard0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Verma-28&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
-[![oscard0m's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Verma-28&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-Verma-28&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Verma-28&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aman-Verma-28&theme=dark)](https://git.io/streak-stats)

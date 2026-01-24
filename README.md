@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman-Verma-28&label=Profile%20views&color=0e75b6&style=flat" alt="Aman Verma" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aman-Verma-28&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ##  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px">  Languages and Tools:
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)

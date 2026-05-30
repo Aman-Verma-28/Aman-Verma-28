@@ -1,7 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/Aman-Verma-28">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aman+Verma;Full-Stack+Developer;Python+%7C+JavaScript+%7C+Cloud+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
+<a href="https://github.com/Aman-Verma-28" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Aman+Verma;Full-Stack+Developer;Python+%7C+JavaScript+%7C+AI+Enthusiast;Always+learning%2C+always+building" 
+    alt="Hi 👋 I'm Aman Verma | Full-Stack Developer | Python | JavaScript | AI Enthusiast | Always learning, always building" 
+  />
 </a>
 
 <p>
@@ -61,8 +64,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-Verma-28&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Verma-28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-Verma-28&theme=tokyonight" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman-Verma-28&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman-Verma-28&theme=tokyonight" alt="Top Languages by Repo" />
 
 <br/>
 
@@ -70,7 +75,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aman-Verma-28&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="GitHub Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-Verma-28&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 
 </div>
 

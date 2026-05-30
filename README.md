@@ -1,37 +1,94 @@
-<h1 align="center">Hi 👋, I'm Aman Verma</h1>
-<h3 align="center"></h3>
+<div align="center">
 
-### Welcome to my corner of the web!!
+<a href="https://github.com/Aman-Verma-28">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aman+Verma;Full-Stack+Developer;Python+%7C+JavaScript+%7C+Cloud+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman-Verma-28&label=Profile%20views&color=0e75b6&style=flat" alt="Aman Verma" /> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Aman-Verma-28&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+</div>
 
-##  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px">  Languages and Tools:
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![image](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Say Hi👋 Here! 
+### 🚀 About Me
 
-- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo" height="16px">  [`@vermaaman2809`](https://twitter.com/vermaaman2809)
+- 🔭 I’m currently working on **full-stack web applications**
+- 🌱 I’m always learning new tools across the **backend, frontend & cloud** stack
+- 💬 Ask me about **Python, Django, JavaScript, React & Node.js**
+- ⚡ Fun fact: I love turning ideas into clean, working products
 
+---
 
-## My stats on :octocat:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-Verma-28&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aman's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Verma-28&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 🛠️ Languages and Tools
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aman-Verma-28&theme=dark)](https://git.io/streak-stats)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aman-Verma-28&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Verma-28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Aman-Verma-28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aman-Verma-28&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://twitter.com/vermaaman2809">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="mailto:vermaaman2809@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<div align="center">
+  <i>Thanks for visiting — feel free to say hi! 👋</i>
+</div>
